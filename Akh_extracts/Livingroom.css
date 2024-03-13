@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+* {
+  font-family: "Roboto Flex";
+}
+
+.room {
+  width: 386px;
+  height: 320px;
+  position: relative;
+  background-image: url("Frame 276.png");
+}
+
+p {
+  margin-bottom: 0px;
+  color: #fafafa;
+  background-color: #822e27;
+  position: absolute;
+  left: 0;
+  padding: 10px 266px 10px 5px;
+  bottom: 0;
+  font-weight: bold;
+  font-size: 20px;
+}

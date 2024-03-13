@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+* {
+  font-family: "Roboto Flex";
+}
+body {
+  background-color: #e9e9e9;
+}
+
+.fullpayment {
+  background-color: #822e27;
+  color: #fafafa;
+  text-align: center;
+  width: 390px;
+  height: 400px;
+  padding: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.para p {
+  line-height: 40px;
+}
+
+.btn1 button {
+  background-color: #6ca2e3;
+  color: #fafafa;
+  padding: 10px 10px;
+  margin: 10px;
+  border: 1px solid;
+  width: 215px;
+}
+
+.btn2 button {
+  background-color: #822e27;
+  color: #fafafa;
+  padding: 10px 10px;
+  margin: 10px;
+  border: 1px solid;
+  width: 215px;
+}
+
+.instalmentalpayment {
+  background-color: #fafafa;
+  color: #822e27;
+  text-align: center;
+  width: 390px;
+  height: 400px;
+  padding: 10px;
+  border: 1.5px #822e27 solid;
+  margin-top: 25px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.text p {
+  line-height: 40px;
+}
+
+.button1 button {
+  background-color: #6ca2e3;
+  color: #fafafa;
+  padding: 10px 10px;
+  margin: 10px;
+  border: 1px solid;
+  width: 215px;
+}
+
+.button2 button {
+  background-color: #fafafa;
+  color: #6ca2e3;
+  padding: 10px 10px;
+  margin: 10px;
+  border: 1px solid;
+  width: 215px;
+}

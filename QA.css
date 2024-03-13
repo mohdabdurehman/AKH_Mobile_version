@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+* {
+  font-family: "Roboto Flex";
+}
+body {
+  background-color: #e9e9e9;
+}
+
+.questions {
+  color: #822e27;
+}
+
+.colortext {
+  color: #6ca2e3;
+}
+
+/* .questions p {
+  padding: 0px;
+} */
+
+.prove {
+  border: 1px solid #fafafa;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  padding: 10px 0px 10px 110px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.ownership {
+  border: 1px solid #fafafa;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  padding: 10px 0px 10px 110px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.profilePage {
+  border: 1px solid #fafafa;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  padding: 10px 0px 10px 110px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.discount {
+  border: 1px solid #fafafa;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  padding: 10px 0px 10px 110px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
